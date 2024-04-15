@@ -32,7 +32,9 @@ chmod +x run.sh
 ```
 
 # Example : ./run.sh tsla
-Output : 
+
+# Output : 
+```
 	tsla
 	The name of the file with information is: tsla.csv
 	Date : 2024-04-15
@@ -42,6 +44,7 @@ Output :
 	Close : 162.419998
 	Adjusted close : 162.419998
 	Volume : 84060045
+```
 
 # Notes:
 - Data comes from free source : https://finance.yahoo.com/quote/TSLA
